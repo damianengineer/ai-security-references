@@ -29,7 +29,9 @@ Threat modeling is essential for understanding and mitigating risks in AI system
 - [OWASP Top 10 for LLM Applications 2025](https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/) 
 - [OWASP Machine Learning Security Top 10](https://github.com/OWASP/www-project-machine-learning-security-top-10) - A comprehensive guide identifying the top 10 security risks in machine learning systems.
 
+
 ## Research Notes & TODOs
 
 - Find GitHub source for Claude's system prompt shown in Twitter post: https://x.com/LiorOnAI/status/1921581307437396309/photo/1
 - Add link to OSSF SBOM (Software Bill of Materials) for supply chain security
+- Review MCP Scanner https://github.com/apps/socket-security 
