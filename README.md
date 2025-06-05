@@ -34,4 +34,7 @@ Threat modeling is essential for understanding and mitigating risks in AI system
 
 - Find GitHub source for Claude's system prompt shown in Twitter post: https://x.com/LiorOnAI/status/1921581307437396309/photo/1
 - Add link to OSSF SBOM (Software Bill of Materials) for supply chain security
-- Review MCP Scanner https://github.com/apps/socket-security 
+- To Review
+  - MCP Scanner https://github.com/apps/socket-security
+  - https://github.com/corca-ai/awesome-llm-security
+  - https://substack.com/@resilientcyber
